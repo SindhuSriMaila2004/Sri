@@ -1,1 +1,2 @@
+Merging:
 Combining changes from different branches.
